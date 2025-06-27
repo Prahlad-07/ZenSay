@@ -5,7 +5,7 @@
 
 
 A Quotes Application built to Demonstrate the use of Jetpack Compose for building declarative UI in
-Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
+Android. *Made with love ❤️ by [Prahlad Yadav](https://github.com/Prahlad-07)*
 
 ***Try latest Quotes App apk from below 👇***
 
@@ -42,10 +42,6 @@ Android. *Made with love ❤️ by [Dinesh2510](https://github.com/Dinesh2510)*
   - [Jetpack Compose Navigation](https://developer.android.com/jetpack/compose/navigation) - The
     Navigation component provides support for Jetpack Compose applications.
 
-
-
-## Contribute 🤝
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/pixelDeviin)
 
 
 ## Credits 🤗
